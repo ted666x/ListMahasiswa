@@ -1,0 +1,45 @@
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\bin\Debug\Latihanwinform.exe.config
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\bin\Debug\Latihanwinform.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\bin\Debug\Latihanwinform.pdb
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\obj\Debug\Latihanwinform.Form1.resources
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\obj\Debug\Latihanwinform.Properties.Resources.resources
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\obj\Debug\Latihanwinform.csproj.GenerateResource.Cache
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\obj\Debug\Latihanwinform.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\obj\Debug\Latihanwinform.pdb
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\obj\Debug\Latihanwinform.FrmListMahasiswa.resources
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\3\Latihanwinform\Latihanwinform\obj\Debug\Latihanwinform.csprojResolveAssemblyReference.cache
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\bin\Debug\Latihanwinform.exe.config
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\bin\Debug\Latihanwinform.exe
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\bin\Debug\Latihanwinform.pdb
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.csprojAssemblyReference.cache
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.Form1.resources
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.FrmListMahasiswa.resources
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.Properties.Resources.resources
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.csproj.GenerateResource.cache
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.csproj.CoreCompileInputs.cache
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.exe
+C:\Users\ANIF\Desktop\LatihanWinfrm-df29584bd37d0a553daae1495c010ba0da6fc227\Latihanwinform\obj\Debug\Latihanwinform.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\bin\Debug\Latihanwinform.exe.config
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\bin\Debug\Latihanwinform.exe
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\bin\Debug\Latihanwinform.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.csprojAssemblyReference.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.Form1.resources
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.FrmListMahasiswa.resources
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.Properties.Resources.resources
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.csproj.GenerateResource.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.csproj.CoreCompileInputs.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.exe
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\03\Sukses\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.pdb
+G:\Anif Prabono (17.11.0931)\Latihanwinform\bin\Debug\Latihanwinform.exe.config
+G:\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.exe
+G:\Anif Prabono (17.11.0931)\Latihanwinform\obj\Debug\Latihanwinform.pdb
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\bin\Debug\Latihanwinform.exe.config
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\obj\Debug\Latihanwinform.exe
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\obj\Debug\Latihanwinform.pdb
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\bin\Debug\Latihanwinform.exe
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\bin\Debug\Latihanwinform.pdb
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\obj\Debug\Latihanwinform.csprojResolveAssemblyReference.cache
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\obj\Debug\Latihanwinform.Form1.resources
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\obj\Debug\Latihanwinform.FrmListMahasiswa.resources
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\obj\Debug\Latihanwinform.Properties.Resources.resources
+E:\Makul\SEMESTER 3\Pemrograman Lanjut\ListMahasiswa\Latihanwinform\obj\Debug\Latihanwinform.csproj.GenerateResource.Cache
